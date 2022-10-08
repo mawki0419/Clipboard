@@ -4,3 +4,4 @@ pip install pywebio
 pip install pyperclip
 pip install pillow
 pip install pypiwin32
+pip install shutilwhich
